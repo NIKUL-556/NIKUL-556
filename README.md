@@ -1,7 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello&fontColor=black!&height=100&section=header"/>
-</p>
 
+
+# Hey 👋, I'm Nikul ! <!--<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">-->
+<img align='right' src="https://github.com/achyutghosh/achyutghosh/blob/master/gifs/people-at-work.gif" width="300">
+<h4>:fire: Passionate programmer | 🚀 Full Stack developer.</h4>
+<h4>💡 Problem Solver | 🎨 UI/UX Designer.</h4>
+<h4>💼 Fresher </h4>
 
 
 
@@ -51,13 +54,13 @@
 </h1>
 
 <p align="center">
-<a href="https://nikul-556.github.i0/">
+<a href="https://nikul-556.github.i0/nikkkkkk">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
 <a href="https://www.linkedin.com/in/nikul-darji56/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-<a href="https://twitter.com/Ipiyushmalhotra">
+<a href="https://twitter.com/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
 <a href="https://www.instagram.com/rathod_nikul556/">
