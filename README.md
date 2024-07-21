@@ -2,8 +2,10 @@
 
 # Hey 👋, I'm Nikul ! <!--<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">-->
 <img align='right' src="https://github.com/achyutghosh/achyutghosh/blob/master/gifs/people-at-work.gif" width="300">
-<h4>:fire: Passionate programmer | 🚀 Full Stack developer.</h4>
-<h4>💡 Problem Solver | 🎨 UI/UX Designer.</h4>
+<h4>:fire: Passionate programmer </h4>
+<h4> 🚀 Full Stack developer </h4>
+<h4> 🎨 UI/UX Designer </h4>
+<h4>💡 Problem Solver </h4>
 <h4>💼 Fresher </h4>
 
 
@@ -54,7 +56,7 @@
 </h1>
 
 <p align="center">
-<a href="https://nikul-556.github.i0/nikkkkkk">
+<a href="https://nikul-556.github.io/nikkkkkk">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
 <a href="https://www.linkedin.com/in/nikul-darji56/">
